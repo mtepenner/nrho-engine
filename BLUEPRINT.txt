@@ -1,0 +1,18 @@
+nrho_engine/
+├── Cargo.toml
+└── src/
+    ├── main.rs
+    ├── physics/
+    │   ├── mod.rs
+    │   ├── cr3bp.rs
+    │   └── rk4.rs
+    ├── rendezvous/
+    │   ├── mod.rs
+    │   └── cw_equations.rs
+    ├── edl/
+    │   ├── mod.rs
+    │   └── solver.rs
+    └── telemetry/
+        ├── mod.rs
+        └── state.rs
+
