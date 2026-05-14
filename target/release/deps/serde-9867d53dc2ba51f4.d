@@ -1,0 +1,14 @@
+C:\Users\mtepe\Scripts\fullstacks\nrho-engine\target\release\deps\serde-9867d53dc2ba51f4.d: C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\mtepe\Scripts\fullstacks\nrho-engine\target\release\build\serde-a09402850eab3e9f\out/private.rs
+
+C:\Users\mtepe\Scripts\fullstacks\nrho-engine\target\release\deps\libserde-9867d53dc2ba51f4.rlib: C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\mtepe\Scripts\fullstacks\nrho-engine\target\release\build\serde-a09402850eab3e9f\out/private.rs
+
+C:\Users\mtepe\Scripts\fullstacks\nrho-engine\target\release\deps\libserde-9867d53dc2ba51f4.rmeta: C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\mtepe\Scripts\fullstacks\nrho-engine\target\release\build\serde-a09402850eab3e9f\out/private.rs
+
+C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\mtepe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\mtepe\Scripts\fullstacks\nrho-engine\target\release\build\serde-a09402850eab3e9f\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\mtepe\\Scripts\\fullstacks\\nrho-engine\\target\\release\\build\\serde-a09402850eab3e9f\\out

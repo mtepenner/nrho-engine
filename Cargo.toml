@@ -1,0 +1,14 @@
+[package]
+name = "nrho-engine"
+version = "0.1.0"
+edition = "2021"
+description = "Near-Rectilinear Halo Orbit (NRHO) dynamics engine – CR3BP physics, RK4 integrator, CW rendezvous, EDL solver"
+license = "MIT"
+
+[[bin]]
+name = "nrho_engine"
+path = "src/main.rs"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
